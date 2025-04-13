@@ -26,3 +26,7 @@ It allows educators to publish courses and students to enroll, purchase, and lea
 ![Image](https://github.com/user-attachments/assets/39d57c41-bd34-488c-9ee2-3e0e90a208d1)
 
 ![Image](https://github.com/user-attachments/assets/bd23de8e-3104-4fb6-aca5-54a0cb645fb0)
+
+![Image](https://github.com/user-attachments/assets/ac3a3ae5-7ba2-4cd9-ac45-62eaf579a726)
+
+![Image](https://github.com/user-attachments/assets/61e572a7-73bd-42b5-8f43-4c7d326ea061)
