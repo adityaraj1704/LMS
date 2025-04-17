@@ -1,6 +1,10 @@
+
 # SkillStream - LMS
 SkillStream is a full-featured Learning Management System (LMS) built using the MERN Stack
 It allows educators to publish courses and students to enroll, purchase, and learn through an intuitive and responsive interface.
+
+#Demo
+https://skill-stream-frontend.vercel.app/
 
 # Tech Stack
 🔹 Frontend
